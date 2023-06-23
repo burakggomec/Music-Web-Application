@@ -1,1 +1,2 @@
-    # css odev1
+# css odev1
+![resim](image/resim.png)
