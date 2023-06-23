@@ -1,0 +1,16 @@
+body{
+    text-align: center;
+}
+
+h1 {    
+    color: red;
+}
+li{
+    list-style-position: inside ;
+}
+h3{
+    color: rgb(235, 235, 48);
+}
+h2{
+    color: purple;
+}
